@@ -1,1 +1,2 @@
-# Temperature-sensor-statistics-app
+# Temperature sensor statistics application
+The application reads the data from a csv-file and outputs statistics.
